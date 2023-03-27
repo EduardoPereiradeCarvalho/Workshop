@@ -1,9 +1,9 @@
 a = 5
-b = 7
+b = 4
 soma = a + b
 print(soma)
 
-if soma == 12:
-    print('A soma é 12')
+if soma == 8:
+    print('A soma é 8')
 else:
-    print('A soma não é 12')
+    print('A soma não é 8')
