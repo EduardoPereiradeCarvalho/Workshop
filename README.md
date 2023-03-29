@@ -1,3 +1,3 @@
 Workshop:
-Dia 1 = Variáveis,
+Dia 1 = variáveis,
 dia 2 = crudteste.
